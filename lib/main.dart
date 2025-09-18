@@ -59,7 +59,7 @@ class NowPlayingScreen extends StatelessWidget {
 																			child: Center(
 																				child: Icon(
 																					Icons.album,
-																					size: 50,
+																					size: 60,
 																					color: Colors.blueGrey[200],
 																				),
 																			),
